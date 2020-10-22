@@ -1,1 +1,18 @@
- [{"city":"Stockholm","name":"Lennart Johansson"},{"city":"London","name":"Karl Eriksson"},{"city":"Helsinki","name":"Pekka Hartikainen"},{"city":"Berlin","name":"Mia Svensson"}]
+ [
+  {
+    "name": "Lennart Johansson",
+    "city": "Stockholm"
+  },
+  {
+    "name": "Karl Eriksson",
+    "city": "London"
+  },
+  {
+    "name": "Pekka Hartikainen",
+    "city": "Helsinki"
+  },
+  {
+    "name": "Mia Svensson",
+    "city": "Berlin"
+  }
+]
