@@ -3,25 +3,25 @@
     "id": 1,
     "equipo": "Atlético Madrid",
     "descipcion": "Equipo Español"
-  }
+  },
   {
     "equipoId": 2,
     "id": 2,
     "equipo": "Chelsea",
     "descripcion": "Equipo Inglés"
-  }
+  },
   {
     "equippId": 3,
     "id": 3,
     "equipo": "PSG",
     "descipcion": "Equipo Francés"
-  }
+  },
   {
     "equipoId": 4,
     "id": 4,
     "equipo": "Borussia Dortmund",
     "descripcion": "Equipo Alemán"
-  }
+  },
   {
     "equipoId": 5,
     "id": 5,
